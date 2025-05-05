@@ -1,0 +1,29 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# NLP & BERT
+transformers
+sentence-transformers
+nltk
+spacy
+
+# For web scraping or handling book metadata (optional)
+beautifulsoup4
+requests
+
+# Optional - for dimensionality reduction & similarity
+faiss-cpu  # Use faiss-gpu if using GPU
+umap-learn
+
+# Jupyter Notebooks (if used)
+notebook
+ipykernel
+
+# Streamlit or Flask (if you want to build a web app)
+streamlit
+# OR
+flask
