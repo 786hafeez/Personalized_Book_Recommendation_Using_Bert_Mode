@@ -27,3 +27,12 @@ ipykernel
 streamlit
 # OR
 flask
+
+# Additional dependencies for API and advanced features
+fastapi
+uvicorn
+sqlalchemy
+torch
+diffusers
+Pillow
+accelerate
